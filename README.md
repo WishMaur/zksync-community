@@ -9,3 +9,4 @@ Welcome to the zkSync Community! The core values for the zkSync community are re
 ## What is the purpose of this site?
 
 This guide is designed to serve as a dynamic resource for our community, providing answers to frequently asked questions and links to other community segments. Its primary objective is to evolve in tandem with the community, ensuring the information remains relevant and up-to-date.
+ok
